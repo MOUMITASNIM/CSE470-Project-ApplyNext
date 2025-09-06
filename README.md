@@ -12,6 +12,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) application for discover
 - **User Profile Management**: Edit profile, upload picture, manage bookmarks
 - **Responsive Design**: Modern, mobile-friendly interface with Tailwind CSS
 - **Real-time Search**: Advanced filtering by country, level, and field of study
+- **Payment** : Payment for enrolling in courses/programs
 
 ### 🏠 Pages & Components
 - **Home Page**: Hero section, featured courses, and platform statistics
