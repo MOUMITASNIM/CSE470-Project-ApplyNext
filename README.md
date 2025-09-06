@@ -2,6 +2,25 @@
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) application for discovering and managing global education opportunities. Built with modern web technologies and inspired by leading education platforms like IDP.
 
+**Sprint -1:**
+
+1. Manage user
+2. Profile edit
+3. Search bar
+4. Separate dashboard admin/user 
+
+**Sprint-2:**
+
+5.  course bookmark and tracking from user profile.
+6. Add Course/scholarship and details 
+7. apply any of the eligible course/scholarship
+
+**Sprint - 3:**
+
+8. chatbot 
+9. manage applicant
+10. analytic monitization 
+11. payment system (stripe)
 ## ✨ Features
 
 ### 🎯 Core Functionality
